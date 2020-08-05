@@ -1,7 +1,6 @@
 # Proffy
 
-Project from Rocketseat "Next Level Week" bootcamp to connect people
-looking for and giving classes.
+Project from Rocketseat "Next Level Week #2".
 
 ## Licence
 
